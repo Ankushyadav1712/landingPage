@@ -12,22 +12,22 @@ export default function ContactForm(){
 
        <form action="" method="" class="form">
            <div class="input-group">
-               <input type="text" name="first_name" id="first-name" placeholder="First name"/>
-               <label for="first-name">First name</label>
+               <input type="text" name="first_name" id="first-name" placeholder=""/>
+               <label for="first-name">First Name</label>
            </div>
            
            <div class="input-group">
-               <input type="text" name="last_name" id="last-name" placeholder="Last Name"/>
-               <label for="last-name">Last name</label>
+               <input type="text" name="last_name" id="last-name" placeholder=""/>
+               <label for="last-name">Last Name</label>
            </div>
 
            <div class="input-group">
-               <input type="email" name="e-mail" id="e-mail" placeholder="e-mail"/>
-               <label for="e-mail">e-mail</label>
+               <input type="email" name="e-mail" id="e-mail" placeholder=""/>
+               <label for="e-mail">E-mail</label>
            </div>
 
            <div class="textarea-group">
-               <textarea name="message" id="message" rows="5" placeholder="Message"></textarea>
+               <textarea name="message" id="message" rows="5" placeholder=""></textarea>
                <label for="message">Message</label>
            </div>
 

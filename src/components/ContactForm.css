@@ -35,7 +35,7 @@ main
 
 input, textarea
 {
-    color: inherit;
+    color: black;
     width: 100%;
     background-color: transparent;
     border: none;
