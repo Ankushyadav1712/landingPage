@@ -1,0 +1,12 @@
+.img-adjust{
+    height: 60vh;
+
+}
+
+.img-adjust img{
+    height: 100%;
+    width: auto;
+    display: block;
+    object-fit: cover;
+    
+}
